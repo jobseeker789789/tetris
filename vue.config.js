@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "/tetrisGame-vue.js-client/dist"
+    publicPath: "/tetris/dist"
 }
