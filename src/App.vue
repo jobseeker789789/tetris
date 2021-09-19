@@ -24,7 +24,6 @@
       </tr>
     </table>
     <button v-if="!game_in_process" @click="game_start">Game Start</button>
-
 </template>
 
 <script>
