@@ -558,9 +558,6 @@ export default {
 </script>
 
 <style>
-<<<<<<< HEAD
-#app {
-=======
 body{margin: 0}
 #app {
   background-color: #eee;
@@ -570,16 +567,11 @@ body{margin: 0}
   flex-direction: column;
   align-items: center;
 
->>>>>>> 0f1f7467ec14faa88893ae08c0f4c5f203c1366c
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-<<<<<<< HEAD
-  margin-top: 60px;
-}
-=======
 
 }
 .playground{
@@ -607,5 +599,4 @@ body{margin: 0}
 .green_block{background-color: green;}
 .pupple_block{background-color: purple;}
 .red_block{background-color: red;}
->>>>>>> 0f1f7467ec14faa88893ae08c0f4c5f203c1366c
 </style>
